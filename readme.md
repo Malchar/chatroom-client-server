@@ -1,3 +1,5 @@
+![ScreenShot](screenshot.png)
+
 Assignment 3 ICS460
 Paul Schmitz 11/13/2022
 
